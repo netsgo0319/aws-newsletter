@@ -184,4 +184,3 @@ jobs:
         Closes #${ISSUE_NUMBER}" \
           --head "$BRANCH_NAME" \
           --base main
-Collapse
